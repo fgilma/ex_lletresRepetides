@@ -1,0 +1,47 @@
+<script>
+//Fase 1
+
+var nom=['F','r','a','n','c','i','s','c','o'];
+for (i=0;i<nom.length;i++){
+    console.log(nom[i]);
+}
+//Fase 2
+var vocals="aeiou";
+for (var i=0;i<nom.length;i++){
+    
+    if (nom[i] >= '0' && nom[i]<= '9'){
+        console.log("Hay numeros en el nombre");
+        break;
+    }
+    else if (vocals.includes(nom[i])){
+        console.log(nom[i] + " es un vocal");
+    }
+    else{
+        console.log(nom[i] + " es una consonante");
+    }
+}
+
+//Fase 3
+var diccionario=new Map();
+for (var i=0;i<nom.length;i++){
+    
+    if (!diccionario.has(nom[i])){
+       
+        diccionario.set(nom[i],1);  
+     }
+    else{
+        
+        diccionario.set(nom[i], diccionario.get(nom[i])+1);
+    }    
+ 
+}
+//Recorrer diccionario
+diccionario.forEach((value, key, diccionario) => 
+{
+  console.log(key +":" + value);
+})
+// Fase 4
+var cognom=['G','i','l'];
+console.log(nom.concat('').concat(cognom));
+
+</script>

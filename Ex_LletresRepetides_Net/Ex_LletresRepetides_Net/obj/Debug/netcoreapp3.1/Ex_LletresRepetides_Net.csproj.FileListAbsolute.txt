@@ -1,0 +1,13 @@
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\bin\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.exe
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\bin\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.deps.json
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\bin\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.runtimeconfig.json
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\bin\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.runtimeconfig.dev.json
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\bin\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.dll
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\bin\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.pdb
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\obj\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.AssemblyInfoInputs.cache
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\obj\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.AssemblyInfo.cs
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\obj\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\obj\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.dll
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\obj\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.pdb
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\obj\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.genruntimeconfig.cache
+C:\Users\franc\source\repos\Ex_LletresRepetides_Net\Ex_LletresRepetides_Net\obj\Debug\netcoreapp3.1\Ex_LletresRepetides_Net.csprojAssemblyReference.cache
